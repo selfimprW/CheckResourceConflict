@@ -1,3 +1,21 @@
+替换
+
+
+<head>
+    <meta charset="utf-8">
+    <title>资源冲突关系树</title>
+    <link rel="stylesheet" type="text/css" href="http://unpkg.com/iview/dist/styles/iview.css">
+<!--    <script type="text/javascript" src="http://vuejs.org/js/vue.min.js"></script>-->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.js"></script>
+    <script type="text/javascript" src="http://unpkg.com/iview/dist/iview.min.js"></script>
+</head>
+
+
+
+
+
+
+
 [项目地址：https://github.com/hust201010701/CheckResourceConflict](https://github.com/hust201010701/CheckResourceConflict)
 
  [ ![Download](https://api.bintray.com/packages/orzangleli/maven/checkresourceconflict/images/download.svg) ](https://bintray.com/orzangleli/maven/checkresourceconflict/_latestVersion)
